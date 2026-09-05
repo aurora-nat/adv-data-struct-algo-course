@@ -32,36 +32,6 @@ Topics covered in this repository include:
 
 Additional topics will be added as the course progresses.
 
-## Repository Structure
-
-```text
-adv-data-struct-algo-course/
-│
-├── README.md
-│
-├── notes/
-│   ├── complexity-analysis/
-│   ├── recurrence-relations/
-│   └── algorithm-design/
-│
-├── sorting/
-│   ├── quicksort/
-│   ├── mergesort/
-│   └── ...
-│
-├── searching/
-│   ├── selection/
-│   └── ...
-│
-├── data-structures/
-│   └── ...
-│
-└── practice/
-    └── ...
-```
-
-The folder structure may change as new topics and assignments are added.
-
 ## Approach
 
 For each algorithm, I aim to document:
